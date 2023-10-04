@@ -14,7 +14,7 @@ console.log(value) //logs variable named value which stores the function
 // console.log(celsiusOutput + '°C equals ' + result '°F')
 
 
-// HOURS TO MINUTES
+// HOURS TO MINUTESgi
 function hoursToMinutes (hours) {
     return (hours * 60)
 }

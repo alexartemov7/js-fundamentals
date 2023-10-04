@@ -7,3 +7,5 @@ const tip = 50
 const people = 3
 
 console.log(tip / people)
+
+function 
